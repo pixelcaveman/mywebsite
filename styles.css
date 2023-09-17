@@ -9,6 +9,10 @@
   flex-direction: row;
   justify-content: space-around;
   object-fit: contain;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 1em;
+
 }
 
 .img {
